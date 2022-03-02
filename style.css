@@ -11,6 +11,11 @@ html { -moz-box-sizing: border-box; -webkit-box-sizing: border-box; box-sizing: 
 body {
     background-color: blue;
 }
+
 h2 {
     background-color: pink;
+}
+
+p {
+    border: 2px solid rebeccapurple;
 }
